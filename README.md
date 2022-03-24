@@ -1,6 +1,6 @@
 # Mastermind
 
-The [Mastermind](https://en.wikipedia.org/wiki/Mastermind_(board_game) board game built for the web.
+The [Mastermind](https://en.wikipedia.org/wiki/Mastermind_(board_game)) board game built for the web.
 
 ### Installation
 
