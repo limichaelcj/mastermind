@@ -4,7 +4,7 @@ The [Mastermind](https://en.wikipedia.org/wiki/Mastermind_(board_game) board gam
 
 ### Installation
 
-No installation needed! You can find the game on the web at [mcli830.github.io/mastermind](https://mcli830.github.io/mastermind) in your web browser.
+No installation needed! You can find the game on the web at [limichaelcj.github.io/mastermind](https://limichaelcj.github.io/mastermind) in your web browser.
 
 You may choose to install the game as a web application for a better experience. Go to your browser settings and select _Add to Home screen_.
 
